@@ -39,7 +39,8 @@ a {
 }
 
 a:hover {
-  color: #eaf6f6;
+  color: #00a8cc;
+  font-weight: bold;
 }
 
 .intro {
